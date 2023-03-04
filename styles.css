@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body{
+    background-color: gray;
+    margin: auto;
+}
+.container {
+
+    width: 50vw;
+    height: 80vh;
+    background-color: #191825;
+    color: white;
+    border-radius: 1rem;
+    text-align: center;
+    border-color: green;
+    margin:100px auto;
+}
+
+.Heading{
+    color: #FFA3FD;
+    padding-top: 3rem;
+
+}
+
+.intro{
+    padding: 5px 2rem 2rem;
+    font-size: 1.2rem;
+}
+
+button{
+    width: 70%;
+    height: 2.5rem;
+    border-radius: 10px;
+    border-color: white;
+    
+}
+
+#increment-btn{
+    background-color: green;
+    margin-bottom: 0.5rem;
+    margin-top: 1rem;
+    color: white;
+}
+
+#save-btn{
+    background-color: rgb(4, 4, 61);
+    color: white;
+    margin-bottom: 1rem;
+}
+
+#save-el{
+    font-size: 1.3rem;
+}
